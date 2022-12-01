@@ -44,12 +44,6 @@ Una iluminación adecuada contribuye a:
 
 •Estimular la buena actitud y satisfacción general.
 
-- MATERIALES:
-
-![image](https://user-images.githubusercontent.com/116833964/205121134-4b876c63-f018-4769-a7ec-387c71ee2205.png)
-
-- PROCEDIMIENTO:
-
 TRANSISTOR_
 
 Los transistores amplifican corriente, por ejemplo pueden ser usados para amplificar la pequeña corriente de salida de un circuito integrado (1C) lógico de tal forma que pueda manejar una bombilla, un relé u otro dispositivo de mucha corriente.Hay dos tipos de transistores estándar, NPN y PNP, con diferentes símbolos de circuito. Las letras hacen referencia a las capas de material semiconductor usado para construir el transistor. La mayoría de los transistores usados hoy son NPN porque este es el tipo construir usando silicio. Los terminales son rotulados como base(B), colector(C) y emisor (E).
@@ -72,9 +66,19 @@ FOTORESISTENCIA_
 
 La fotorresistencia, como su nombre lo indica, es un resistencia cuyo valor dependen de la energía luminosa incidente en ella, específicamente son resistencias cuyo valor de resistividad disminuye a medida que aumenta la energía luminosa incidente sobre ella y viceversa. Una fotorresistencia se compone de un material semiconductor cuya resistencia varía en función de la iluminación. La fotorresistencia reduce su valor resistivo en presencia de rayos luminoso 
 
+- MATERIALES:
+
+![image](https://user-images.githubusercontent.com/116833964/205121134-4b876c63-f018-4769-a7ec-387c71ee2205.png)
+
+- PROCEDIMIENTO:
+
 Circuito_
 
 ![image](https://user-images.githubusercontent.com/116833964/205116013-19d9da4f-d39d-439d-a2a1-3b5668b090bd.png)
+
+Circuito en Tinkercad_
+
+![image](https://user-images.githubusercontent.com/116833964/205136486-c5497c7e-a50a-401d-a997-f7bb063795bf.png)
 
 Circuito en Protoboard_
 
